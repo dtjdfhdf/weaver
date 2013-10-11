@@ -1,0 +1,53 @@
+8
+
+dir
+17
+https://weaver-ncmir.googlecode.com/svn/trunk/src/weaverGui/debug
+https://weaver-ncmir.googlecode.com/svn
+
+
+
+2010-10-21T21:38:14.277415Z
+4
+rajvikrams
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6bde7acd-3e3e-1854-ad48-2fe6a852cbac
+
+moc_weavermanualalign.cpp
+file
+
+
+
+
+2011-02-19T01:49:31.000000Z
+8d3022e47919dfdd6b4e0d0f33eb6fd0
+2010-10-21T21:38:14.277415Z
+4
+rajvikrams
+
+weaverManualAlign.exe
+file
+
+
+
+
+2011-02-19T01:49:31.000000Z
+eee571c54af0abd4ff0b98b82edf39aa
+2010-10-21T21:38:14.277415Z
+4
+rajvikrams
+has-props
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/Makefile.in
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/getopt.c
+END
+Makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/Makefile.vc
+END
+strcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/strcasecmp.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/Makefile.am
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/dummy.c
+END
+lfind.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/lfind.c
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/bigtiff/tiff-4.0/port/strtoul.c
+END

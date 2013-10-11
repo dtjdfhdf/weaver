@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/17/trunk/bigtiff
+END
+libz.a
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/17/trunk/bigtiff/libz.a
+END
+libtiff.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/bigtiff/libtiff.vcproj
+END
+libtiff.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bigtiff/libtiff.dsp
+END
+tiffinfo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/bigtiff/tiffinfo.vcproj
+END
+tiffinfo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/bigtiff/tiffinfo.dsp
+END
+libtiff.sln
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bigtiff/libtiff.sln
+END
+libjpeg.a
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/17/trunk/bigtiff/libjpeg.a
+END
+libtiff.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bigtiff/libtiff.dsw
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/bigtiff/makefile
+END
+libtiff.a
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/17/trunk/bigtiff/libtiff.a
+END
+libtiff.vcproj.VIDEOMASTER.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/bigtiff/libtiff.vcproj.VIDEOMASTER.Administrator.user
+END

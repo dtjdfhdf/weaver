@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/win32/weaver/Release
+END
+vc80.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/win32/weaver/Release/vc80.pdb
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/win32/weaver/Release/mt.dep
+END
+weaver.exe.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/win32/weaver/Release/weaver.exe.intermediate.manifest
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/win32/weaver/Release/BuildLog.htm
+END
+main.obj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/win32/weaver/Release/main.obj
+END
+vc80.idb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/win32/weaver/Release/vc80.idb
+END
+wStitch.obj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/win32/weaver/Release/wStitch.obj
+END

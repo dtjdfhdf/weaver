@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/17/trunk/src/weaverGui
+END
+weaverprojectdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/src/weaverGui/weaverprojectdialog.cpp
+END
+weavermanualalign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/src/weaverGui/weavermanualalign.cpp
+END
+ui_weavermanualalign.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/src/weaverGui/ui_weavermanualalign.h
+END
+weaverprojectdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/src/weaverGui/weaverprojectdialog.h
+END
+qImageOperations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/src/weaverGui/qImageOperations.cpp
+END
+weavermanualalign.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/src/weaverGui/weavermanualalign.h
+END
+Makefile.Release
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/src/weaverGui/Makefile.Release
+END
+qImageOperations.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/src/weaverGui/qImageOperations.h
+END
+weaverManualAlign.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/weaverGui/weaverManualAlign.pro
+END
+Makefile.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/src/weaverGui/Makefile.Debug
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11/trunk/src/weaverGui/main.cpp
+END
+weaverprojectdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/src/weaverGui/weaverprojectdialog.ui
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/src/weaverGui/Makefile
+END
+weavermanualalign.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16/trunk/src/weaverGui/weavermanualalign.ui
+END
+weaverManualAlign.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/weaverGui/weaverManualAlign.pro.user
+END

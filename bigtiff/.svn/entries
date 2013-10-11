@@ -1,0 +1,178 @@
+8
+
+dir
+17
+https://weaver-ncmir.googlecode.com/svn/trunk/bigtiff
+https://weaver-ncmir.googlecode.com/svn
+
+
+
+2010-11-03T21:00:44.812022Z
+17
+rajvikrams
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6bde7acd-3e3e-1854-ad48-2fe6a852cbac
+
+libz.a
+file
+
+
+
+
+2011-02-19T01:49:41.000000Z
+136c2b638744fae5697ce4d84b25f998
+2010-11-03T21:00:44.812022Z
+17
+rajvikrams
+has-props
+
+libtiff.vcproj
+file
+
+
+
+
+2011-02-19T01:49:41.000000Z
+906537d802d0bbf7e83e811c7159c18c
+2010-10-11T22:38:56.375571Z
+2
+rajvikrams
+
+Debug
+dir
+
+tiff-4.0
+dir
+
+tiffinfo.dsp
+file
+
+
+
+
+2011-02-19T01:49:41.000000Z
+3dbc14e943bc76e31623436ad878e785
+2010-10-11T22:38:56.375571Z
+2
+rajvikrams
+
+libjpeg.a
+file
+
+
+
+
+2011-02-19T01:49:41.000000Z
+ba13d3719d4b7dbf53b52046586fafe6
+2010-11-03T21:00:44.812022Z
+17
+rajvikrams
+has-props
+
+libtiff.vcproj.VIDEOMASTER.Administrator.user
+file
+
+
+
+
+2011-02-19T01:49:42.000000Z
+d0ab31fcf36a1fd539777a1c4f0cb269
+2010-10-11T22:38:56.375571Z
+2
+rajvikrams
+
+libtiff.a
+file
+
+
+
+
+2011-02-19T01:49:42.000000Z
+5879a2a6a5aff0b7ed13dfc3acca342d
+2010-11-03T21:00:44.812022Z
+17
+rajvikrams
+has-props
+
+libz
+dir
+
+libtiff.dsp
+file
+
+
+
+
+2011-02-19T01:49:42.000000Z
+4616da4614f0cc38d71f235d8e3f115d
+2010-10-11T22:38:56.375571Z
+2
+rajvikrams
+
+tiffinfo.vcproj
+file
+
+
+
+
+2011-02-19T01:49:42.000000Z
+0ad034631a02329f36387c68fe292050
+2010-10-11T22:38:56.375571Z
+2
+rajvikrams
+
+lib
+dir
+
+libtiff.sln
+file
+
+
+
+
+2011-02-19T01:49:42.000000Z
+97b02f7ada492ffe50e925a5e03d571a
+2010-10-11T22:38:56.375571Z
+2
+rajvikrams
+
+libtiff.dsw
+file
+
+
+
+
+2011-02-19T01:49:42.000000Z
+6a05aa9ab74e2cde99761ed5c4fd27d1
+2010-10-11T22:38:56.375571Z
+2
+rajvikrams
+
+libjpeg
+dir
+
+makefile
+file
+
+
+
+
+2011-02-19T01:49:42.000000Z
+25ae471436a7f96997d899f0e7eeffe1
+2010-11-01T20:44:10.232079Z
+14
+rajvikrams
+

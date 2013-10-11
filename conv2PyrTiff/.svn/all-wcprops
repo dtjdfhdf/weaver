@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/conv2PyrTiff
+END
+pyrTiffUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/conv2PyrTiff/pyrTiffUtil.cpp
+END
+Makefile.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/conv2PyrTiff/Makefile.Debug
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/conv2PyrTiff/main.cpp
+END
+pyrTiffUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/conv2PyrTiff/pyrTiffUtil.h
+END
+conv2PyrTiff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/conv2PyrTiff/conv2PyrTiff.pro
+END
+conv2PyrTiff
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/conv2PyrTiff/conv2PyrTiff
+END
+Makefile.Release
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/conv2PyrTiff/Makefile.Release
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/conv2PyrTiff/Makefile
+END

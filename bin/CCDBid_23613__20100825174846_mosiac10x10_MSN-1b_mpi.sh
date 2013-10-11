@@ -1,0 +1,1 @@
+mpirun -np 5 ./weaver_mpi -c -o /mnt/disk2/data/montages/CCDBid_23613__20100825174846_mosiac10x10_MSN-1b.tif -m /mnt/disk2/data/temp/ -n 10x10 -p CCDBid_23613__20100825174846_mosiac10x10_MSN-1b.piecefile -w -mr 256x256 -d

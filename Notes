@@ -1,0 +1,2 @@
+
+[1] Version 4.0.1 of Bigtiff seems to generate pyramidal tiffs fine. Upgrading to 4.0.2 made things worse. Bigtiff reading started failing. So sticking with 4.0.1
